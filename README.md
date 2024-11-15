@@ -1,16 +1,17 @@
-## Hi there 👋
+# 👋 Hola! Sóc Xavier Gascón Corella
+### 🔧 Desenvolupador/a| 💻 Apassionat per la tecnologia
 
-<!--
-**xgascon12/xgascon12** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+Benvingut/da al meu portfoli! 🌟 Aquí trobaràs els meus projectes, habilitats i altres detalls rellevants.
 
-Here are some ideas to get you started:
+## 📝 Currículum
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+![image](https://github.com/user-attachments/assets/ec448bfd-e320-4aad-85f5-066f714a5de5)
+
+
+🎓 **Educació:** Grau mitjá de sistemes microinformatics i xarxes en el Pàlcam 
+
+💼 **Experiència professional:**
+-Practiques de atenció al client en Edyma Digital Company
+
+
+

@@ -15,9 +15,9 @@ Benvingut/da al meu portfoli! 🌟 Aquí trobaràs els meus projectes, habilitat
 
 ## 📊 Estadístiques
 
-![Contribucions](https://github-readme-stats.vercel.app/api?username=<el_teu_nom_d'usuari>&show_icons=true&theme=radical)
+![Contribucions](https://github-readme-stats.vercel.app/api?username=<xgascon12>&show_icons=true&theme=radical)
 
-![Gràfic d'activitat](https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=<el_teu_nom_d'usuari>&theme=radical)
+![Gràfic d'activitat](https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=<xgascon12>&theme=radical)
 
 ## 🛠️ Habilitats tècniques
 ![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white)

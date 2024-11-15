@@ -1,4 +1,6 @@
-# 👋 Hola! Sóc Xavier Gascón Corella
+# 👋 Hola! Sóc Xavi Gascon
+
+![GIF de benvinguda](https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif)
 ### 🔧 Desenvolupador/a| 💻 Apassionat per la tecnologia
 
 Benvingut/da al meu portfoli! 🌟 Aquí trobaràs els meus projectes, habilitats i altres detalls rellevants.
